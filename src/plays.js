@@ -14,7 +14,7 @@ const plays = (prefix) => {
 │  _os reseva sao caso um_ 
 │  _nao funciona ou buga_p9
 0 pq
-│             _*skiller bot*_
+│             _*private bot*_
 ╰───────────┈┈💫`
 }
 
