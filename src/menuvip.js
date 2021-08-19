@@ -49,13 +49,9 @@ const menuvip = (prefix) => {
 ││💶 *${prefix}fastvid*
 ││💶 *${prefix}slowvid*
 │╰──────────┈┈💫
-│  _Vip 15R$ ou use algum codigo_ 
-│  _Codigo kwai- Kwai517295564_ 
-│  _Codigo tiktok- J7660343431_ 
+│  _Vip Free (Mandar foto da rabis no pv do dono😏)_ 
 │  _ou junte 1,000,000 dinheiro ${prefix}dinheiro_ 
-│  _use ${prefix}buyvip dps de juntar o dinheiro_ 
-│  _print no numero wa.me/558892594715_
-│             _*skiller bot*_
+│             _*private bot*_
 ╰───────────┈┈💫
 
 `
