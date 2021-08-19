@@ -42,7 +42,7 @@ const menu2 = (prefix) => {
 ││  *Bot on?*
 ││⚠️ será que tou?
 ││ENTRE OUTROS AUTOREPLY..
-│ ⊢──◣Presentes do Skiller◥───✯
+│ ⊢──◣Presentes do Trash◥───✯
 ││
 ││  *${prefix}modapk*
 ││⚠️𝗮𝗽𝗸𝘀
@@ -82,7 +82,7 @@ const menu2 = (prefix) => {
 │╰──────────┈┈💫
 │  _o menu 2 ainda esta_ 
 │      _em produção_
-│             _*skiller bot*_
+│             _*private bot*_
 ╰───────────┈┈💫`
 }
 
