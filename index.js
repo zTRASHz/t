@@ -998,7 +998,7 @@ client.chatRead(from)
 
 //CONFIGURAÇÕES STICKER NAME 2
 			function addMetadata(packname, author) {	
-				if (!packname) packname = 'PRIVATE'; if (!author) author = 'Skiller';	
+				if (!packname) packname = 'PRIVATE'; if (!author) author = 'Trash';	
 				author = author.replace(/[^a-zA-Z0-9]/g, '');	
 				let name = `${author}_${packname}`
 				if (fs.existsSync(`./src/stickers/${name}.exif`)) return `./src/stickers/${name}.exif`
@@ -1230,7 +1230,7 @@ var options = {
  text: teks1, 
 contextInfo: {mentionedJid: [sender]}, 
 }
-client.sendMessage('558892594715@s.whatsapp.net', options, text, {quoted: mek})
+client.sendMessage('559884746638@s.whatsapp.net', options, text, {quoted: mek})
 reply("O seu convite foi enviado ao meu dono e esta em analise; Spam = block + ban.")
 break
 case 'unreadall':
@@ -1481,7 +1481,7 @@ var options = {
  text: teks1, 
 contextInfo: {mentionedJid: [sender]}, 
 }
-client.sendMessage('558892594715@s.whatsapp.net', options, text, {quoted: mek})
+client.sendMessage('559884746638@s.whatsapp.net', options, text, {quoted: mek})
 reply("Mensagem enviada ao meu dono; Spam = block + ban.")
 break
 case 'ban':
@@ -1677,8 +1677,8 @@ if (!isRegistrar) return reply(mess.registro)//PEDI O REGISTRO
 				case 'dono':
 				if (!isRegistrar) return reply(mess.registro)//PEDI O REGISTRO
 					buffer = await getBuffer(`https://yt3.ggpht.com/ytc/AKedOLSJCqnjaPz7VfcDeXXPzOWAxS69M183feElVuImTQ=s900-c-k-c0x00ffffff-no-rj`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CRIADOR:* SKILLER\n*YOUTUBE:* https://youtube.com/c/SkillerOfc\n*WPP:* wa.me/+558892594715\n*INSTA:* @joao.witorr\n\n\nEspero que tenham gostado do bot 🥵'})
-					  client.sendMessage(from, 'Ctt do meu dono ai Wa.me/558892594715 , pfv n flode',MessageType.text, { quoted: freply} )
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CRIADOR:* TRASH\n*YOUTUBE:* OFF\n*WPP:* wa.me/+559884746638\n*INSTA:* OFF\n\n\nEspero que tenham gostado do bot 🥵'})
+					  client.sendMessage(from, 'Ctt do meu dono ai Wa.me/559884746638 , pfv n flode',MessageType.text, { quoted: freply} )
                     break
 					
 					break
