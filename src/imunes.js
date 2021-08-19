@@ -1,7 +1,7 @@
 const imunes = (prefix, sender) => {
 	return `LISTA DE IMUNES/TRAVA ZAP EM GERAL
 
- prim�rios 
+ primários 
 
 fallen angels 
  https://www.mediafire.com/file/7uxfzfhvmxksgu0/Fallen_Angels_-_rajando_por_tm_BY_PEDRIN_TRAVAS_OFC.apk/file
@@ -9,13 +9,13 @@ fallen angels
 1.9.5  _ privado 
  https://www.mediafire.com/file/y0ogxjvcfvq3nh4/%25F0%2596%25A6%2583_%25F0%259D%259F%258F.%25F0%259D%259F%2597.%25F0%259D%259F%2593_%25EA%25AA%25B6%25F0%259D%2590%258F%25F0%259D%2590%2591%25F0%259D%2590%2588%25F0%259D%2590%2595%25CD%25A2%25F0%259D%2590%2580%25F0%259D%2590%2593%25F0%259D%2590%2584%25EA%25AB%2582_%25EA%25AA%25B6%25F0%259D%2590%2581%25CD%25A2%25F0%259D%2590%2598%25EA%25AB%2582_%25EA%25AA%25B6%25F0%259D%2590%2581%25F0%259D%2590%2584%25CD%25A2%25F0%259D%2590%2592%25F0%259D%2590%2587_%25F0%259D%2590%2596%25F0%259D%2590%2580%25CD%25A2%25F0%259D%2590%2591%25EA%25AB%2582_%25F0%2596%25A6%2583%25F0%259D%2598%25A3%25F0%259D%2598%25BA_%25F0%259D%2598%2593%25F0%259D%2598%2596%25F0%259D%2598%259A%25F0%259D%2598%259B_%25F0%259D%2598%2594%25F0%259D%2598%2593%25F0%259D%2598%2592_%25F0%259D%2598%2596%25F0%259D%2598%259A%25F0%259D%2598%258F%25F0%259D%2598%258F_%25F0%259D%2598%2596%25F0%259D%2598%258D%25F0%259D%2598%258A.apk/file
 
-dragons war - divis�o 
+dragons war - divisão 
  https://www.mediafire.com/file/wkl6ftnmniih0p7/%25F0%259D%2590%2583%25F0%259D%2590%2591%25CD%25A2%25F0%259D%2590%2580%25F0%259D%2590%2586%25F0%259D%259A%25AF%25CD%25A2%25F0%259D%2590%258D%25F0%259D%2590%2592_%25F0%259D%2590%2596%25CD%25A2%25F0%259D%2590%2580%25F0%259D%2590%2591_-_%25F0%259D%2590%2583.%25F0%259D%2590%2588.%25F0%259D%2590%2595.%25F0%259D%2590%2588.%25F0%259D%2590%2592.%25F0%259D%2590%2588.%25F0%259D%259A%25AF.%25F0%259D%2590%258D_%25E3%2582%25B9_r.apk/file
 
 egypsius final version
  https://www.mediafire.com/file/cy1tsuhrwujth4g/Egypcius_final_version.apk/file
 
-�xxx 
+¿xxx 
  https://www.mediafire.com/file/mssjhdog1y0m3m5/%25C2%25BFX.X.X_-_BY_BOLADAOYZX.apk/file
 
 celestial  xxx - ygg
@@ -71,10 +71,10 @@ zap ios
 
 secundarios
 
-eternity ( secund�rio )
+eternity ( secundário )
  https://www.mediafire.com/file/f3pc0liuvg1sqbr/Eternity%2528Secund%25C3%25A1rio%2529.apk/file
 
-5k - black ( secund�rio )
+5k - black ( secundário )
  https://www.mediafire.com/file/0kge1klqtrvpk0h/5K_-_BLACK.apk/file
 
 rizer speed - [][]
@@ -99,7 +99,7 @@ bonus
 picsart
  https://apkadmin.com/mmfn0qv0726p/PicsArt_Gold_Full_v17.1.4.apk.html
 
-minez�ooo
+minezãooo
  https://www.mediafire.com/file/u38ih7y7kzmip61/Minecraft_PE_V1.17.10.20_EmzeetGaming.7z/file
 
  BASE PRA WHATSAPP PRIMARIO
@@ -168,7 +168,7 @@ https://www.mediafire.com/file/8h3r7jq7ll0yqeg/%25EA%2599%25B3_%25EA%25A6%25BF%2
 
 
 
-ABAIXO EST�O DESATUALIZADOS
+ABAIXO ESTÃO DESATUALIZADOS
 
 JST PRIVATE 
 https://mega.nz/file/sR8GibSC#INpStHFQ9IiCJ2xrP1xCUR3SjAwB0oifzd-lXYhoDr0
@@ -182,7 +182,7 @@ https://seulink.net/lVfC
 Tisu v5
 https://www.mediafire.com/file/riot8h5zac7qj8a/TISU_V5.apk/file
 
-Pack de imunes+fotos trava zap +secundários+primários
+Pack de imunes+fotos trava zap +secundÃ¡rios+primÃ¡rios
 https://mega.nz/file/vgYgQLhJ#T64QPcANThFE-Pcmr2Emf2dC4CBF2TteObtWclP2fDg
 
 Pack de travas 
@@ -201,8 +201,7 @@ STORCK V3
 
 https://seulink.net/RTIc7C
 
-SKILLER DOMINA VADIAS👑
-CASO QUEIRA QUE SEU IMUNE APAREÇA NESSA LISTA MANDE O LINK DE DOWNLOAD PRO CRIADOR
+CASO QUEIRA QUE SEU IMUNE APAREÃA NESSA LISTA MANDE O LINK DE DOWNLOAD PRO CRIADOR
 
 `
 }
