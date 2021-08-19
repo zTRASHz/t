@@ -343,7 +343,7 @@ https://realsht.mobi/iJQbj
 • 100 Font Picsay/Pixelab
 https://realsht.mobi/hrTdE
 
-PRIVATE BOT CREDITOS CAUSS
+PRIVATE BOT
 `
 }
 exports.modapk = modapk
