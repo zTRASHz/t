@@ -1,8 +1,6 @@
 const pack18 = (prefix, sender) => {
 	return `PACKZÃO
 
-😈Produzido por SKILLER 😈
-🔥Wa.me/5588992594715🔥
 https://photos.app.goo.gl/Jr4Qk1dFSJepPdRc7
 -
 https://photos.app.goo.gl/gNxLbJHGVzeWY9iS9
