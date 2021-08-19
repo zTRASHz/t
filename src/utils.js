@@ -100,9 +100,7 @@ https://www.mediafire.com/file/lae02ex8t23vyfc/MEGA_PACK_STARTDZN_20K.zip/file
 🇧🇷2NR
 🇧🇷https://www.mediafire.com/file/ax3n16yhu3nhupz/%252B48_POLONIA_BY_KAUEZIN.apk/file
 🇧🇷
-       FEITO POR CARLOS
 
-SKILLER DOMINA VADIAS👑
 CASO QUEIRA QUE ALGUM LINK APAREÇA NESSA LISTA MANDE O LINK DE DOWNLOAD PRO CRIADOR
 
 
