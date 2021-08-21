@@ -3425,40 +3425,59 @@ rg = registro.length
 				default:
 				
 		//AUTOREPLY0
-if ((budy === "toca")){
+			if (messagesC.includes("toca")){
 			client.updatePresence(from, Presence.composing)
 			tujuh = fs.readFileSync('./assets/toca.mp3');
-            client.sendMessage(from, tujuh, MessageType.audio, {quoted: freply, mimetype: 'audio/mp4', ptt:true})
+            client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
-	if ((budy === "Toca")){
+				if (messagesC.includes("canta1")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/toca.mp3');
-            client.sendMessage(from, tujuh, MessageType.audio, {quoted: freply, mimetype: 'audio/mp4', ptt:true})
+			tujuh = fs.readFileSync('./assets/canta.mp3');
+            client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
-if ((budy === `vai tmnc`)){                     
-                   client.sendMessage(from, 'Disse a putinha..', text, {quoted: freply})
-                    }
-                    if ((budy === `tmnc`)){                     
-                   client.sendMessage(from, 'Disse a putinha..', text, {quoted: freply})
-                    }
-                    if ((budy === `vtmnc`)){                     
-                   client.sendMessage(from, 'Disse a putinha..', text, {quoted: freply})
-                    }
-if ((budy === `Bot ta on?`)){                     
-                   client.sendMessage(from, 'sera que eu tou?', text, {quoted: freply})
-                    }
-if ((budy === `Bot on?`)){                     
-                   client.sendMessage(from, 'sera que eu tou?', text, {quoted: freply})
-                    }
-if ((budy === `Oi`)){                     
-                   client.sendMessage(from, 'Oi coisa linda', text, {quoted: freply})
-                    }
-            if ((budy === "prefix")){
-				    reply(`O meu prefix e ${prefix}`)
-				    }
-            if ((budy === "Prefix")){
-				    reply(`O meu prefix e ${prefix}`)
-				    }
+				if (messagesC.includes("canta2")){
+			client.updatePresence(from, Presence.composing)
+			tujuh = fs.readFileSync('./assets/canta2.mp3');
+            client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+	}
+				if (messagesC.includes("canta3")){
+			client.updatePresence(from, Presence.composing)
+			tujuh = fs.readFileSync('./assets/canta3.mp3');
+            client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+	}
+				if (messagesC.includes("falsidade")){
+			client.updatePresence(from, Presence.composing)
+			tujuh = fs.readFileSync('./assets/falsidade.mp3');
+            client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+	}
+		if (messagesC.includes("fdp")){
+			client.updatePresence(from, Presence.composing)
+			reply("teu pai")
+	}
+		if (messagesC.includes("corno")){
+			client.updatePresence(from, Presence.composing)
+			reply("vsfd seu merda")
+	}
+		if (messagesC.includes("tmnc")){
+			client.updatePresence(from, Presence.composing)
+			reply("vai vc, tu ja me disse q é mo bom")
+	}
+		if (messagesC.includes("vsfd")){
+			client.updatePresence(from, Presence.composing)
+			reply("bora juntos?")
+	}
+		if (messagesC.includes("cadebot")){
+			client.updatePresence(from, Presence.composing)
+			reply("olha eu aqui carai")
+	}
+		if (messagesC.includes("bot")){
+			client.updatePresence(from, Presence.composing)
+			reply("oi")
+	}
+			if (messagesC.includes("Oi")){
+			client.updatePresence(from, Presence.composing)
+			reply("Oi coisa linda")
+	}
 				//CONSOLES LOGS
 					if (isGroup && isSimi && budy != undefined) {
 						console.log(budy)
